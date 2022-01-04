@@ -28,7 +28,6 @@ def classfication(request):
 		return render(request=request, template_name="tensor/ecg.html", context={'form':form, 'x':x})
 	form = ImageUploadForm()
     
-	# movies = Movies.objects.image
 	return render(request=request, template_name="tensor/ecg.html", context={'form':form})
 
 def prepare(filepath):
