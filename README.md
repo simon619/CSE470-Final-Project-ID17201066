@@ -22,12 +22,3 @@ Requirments To Run This Project:
 Your Faithful
 Simon Abhijet Biswas
 ID: 17201066
-
-git bash codes:
--git init
--git add .
--git commit -m "First commit"
--git config --global user.email "simonavi619@gmail.com"
--git config --global user.email "simon619"
--git remote add origin "link"
--git push -u origin master
