@@ -15,7 +15,7 @@ Requirments To Run This Project:
 - Create An Customized Enviornment On Anaconda Navigator And Install The Requirted Libraries On That Enviornment. 
 - If You Face Any Problem Installing Any Of These Libraries By Anaconda Navigator Enviornment, Install It, By Running Your Own Command Prompt (The Environment You Created) Using 'pip' Command.
 - Perform Every Operation On Your Customise Enviornment Command Prompt.
-- Cuda And CudNN Libraries May Require To Run This Project On Python 3.9.7. To Avoid This Hassle, Anacona Python 3.9.7 Interpreter Has Been Used.
+- Cuda And CudNN Libraries May Require To Run This Project On Python 3.9.7. To Avoid This Hassle, Anaconda Python 3.9.7 Interpreter Has Been Used.
 - Upgraded Tensorflow Versions Has Some Bugs While This Project Was In Construction.
 
 Your Faithful
