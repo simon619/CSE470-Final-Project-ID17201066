@@ -12,7 +12,8 @@ Requirments To Run This Project:
 - opencv-python 4.5.4.60
 - numpy 1.21.2
 
-  Please
+
+  Please Follow These Instruction:
 - Create An Customized Enviornment On Anaconda Navigator And Install The Requirted Libraries On That Enviornment. 
 - If You Face Any Problem Installing Any Of These Libraries By Anaconda Navigator Enviornment, Install It, By Running Your Own Command Prompt (The Environment You Created) Using 'pip' Command.
 - Perform Every Operation On Your Customise Enviornment Command Prompt.
