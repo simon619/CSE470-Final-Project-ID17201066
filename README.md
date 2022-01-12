@@ -13,7 +13,7 @@ Requirments To Run This Project:
 - numpy 1.21.2
 
 
-  Please Follow These Instruction:
+  Please Follow These Instructions:
 - Create An Customized Enviornment On Anaconda Navigator And Install The Requirted Libraries On That Enviornment. 
 - If You Face Any Problem Installing Any Of These Libraries By Anaconda Navigator Enviornment, Install It, By Running Your Own Command Prompt (The Environment You Created) Using 'pip' Command.
 - Perform Every Operation On Your Customise Enviornment Command Prompt.
