@@ -1,16 +1,16 @@
 # CSE470-Final-Project-ID17201066
 Requirments To Run This Project:
 
--> python 3.9.7 (Conda)
--> django 3.2.5
--> anaconda Navigator
--> django-crispy-form 1.13.0
--> keras 2.4.3
--> tensorflow 2.5.0
--> pillow 8.4.0
--> hdf5 1.10.6
--> opencv-python 4.5.4.60
--> numpy 1.21.2
+- python 3.9.7 (Conda)
+- django 3.2.5
+- anaconda Navigator
+- django-crispy-form 1.13.0
+- keras 2.4.3
+- tensorflow 2.5.0
+- pillow 8.4.0
+- hdf5 1.10.6
+- opencv-python 4.5.4.60
+- numpy 1.21.2
 
   Please
 - Create An Customized Enviornment On Anaconda Navigator And Install The Requirted Libraries On That Enviornment. 
