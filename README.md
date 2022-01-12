@@ -22,3 +22,9 @@ Requirments To Run This Project:
 Your Faithful
 Simon Abhijet Biswas
 ID: 17201066
+
+Run Project Command:
+(env) C:\Users\.......\Medicaltalk\python manage.py runserver
+
+Run Testing Command:
+(env) C:\Users\.......\Medicaltalk\py manage.py test (app name eg. talk or tensor or users)
